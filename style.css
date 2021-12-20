@@ -1,5 +1,5 @@
 body {
-    background-color: #e0ebe8;
+    background-color: #F0D290;
     color: #545454;
 }
 
@@ -17,10 +17,34 @@ img {
     height: 150px;
 }
 
+.nikky {
+    background-color: #F0BB62;
+}
+
+#Nikky1 {
+    color: #1e836c;
+}
+
 h1 {
     color: #1e836c;
 }
 
+h2 {
+    color: #1e836c;
+}
+
 h3 {
+    color: #1e836c;
+}
+
+h4 {
+    color: #1e836c;
+}
+
+h5 {
+    color: #1e836c;
+}
+
+h6 {
     color: #1e836c;
 }
